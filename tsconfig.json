@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "lib": [
+            "dom",
+            "es2015",
+            "es2016",
+            "es2017"
+        ],
+        "types": [
+            "types.d"
+        ]
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
